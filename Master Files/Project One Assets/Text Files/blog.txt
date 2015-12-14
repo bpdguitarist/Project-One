@@ -1,0 +1,127 @@
+Title: 
+	Holly's Trail Mix
+
+Navigation:
+	trail blog
+	trail reviews
+	trail news
+	resources
+	biking tours
+
+heading two:
+	Trail Blog
+heading three:
+	Holly's Trail Mix
+	Publish date:
+	posted on November 30th, 2014
+	Author:
+	Holly Williamson
+
+	This is my favorite trail mix for a long day of biking. It stores well, is lightweight and can give you a great energy boost!
+
+	If I know I'm going to be going our for a full day on the trail, I want to make sure that I've got a good source of energy to help me make it through those really tough climbs. Many of my friends love the pre-packaged energy bars, but in my opinion nothing beats a well thought-out trail mix! The great thing about trail mix is that you can modify it to your specific tastes, so if you don't like some of the ingredients listed here, play around and find your perfect mix! There are days where I find the wasabi peas to be too much, so I usually make one batch with them, and one batch without them so I can pack for whatever mood I'm in. Good trail mix is about exploring, don't be afraid to substitute your own ingredients!
+
+heading four:
+ Prep time: 5 min
+ heading four:
+ Cook time: 5 min
+    Total time: 10 min
+heading four:
+	Yield: 3 cups
+heading four:
+	Serving size: Around 8oz
+ heading four:
+	Calories per serving: 350
+
+ heading four:
+	Ingredients:
+Unordered List
+	1 cup dried fruit
+	1/2 cup honey granola
+	1/4 cup candy-coated milk chocolate pieces
+	1/4 cup salt-free almonds
+	1/2 cup salt-free peanuts
+	1/4 cup wasabi peas (optional)
+	1/4 cup roasted pumpkin seeds
+
+ heading four:
+	Directions:
+Ordered List
+	Break large granola clumps into smaller pieces
+	Mix ingredients in a large gallon bag
+	Add a pinch of salt to taste
+	Store in an air-tight container in a cool, dry place
+
+	heading three:
+	Want to submit a review?
+
+	To leave a review you must anchor 
+		tag:registeranchor 
+		tag: sign in
+
+heading two:
+	Featured Reviews
+
+ heading three:
+	Recipe rating
+
+	4 stars based on
+	20 reviews
+
+ heading three:
+	Vicki Gibbons
+	December 3rd, 2014 at 2:41
+
+	
+	Review for: Holly's Trail Mix
+    Rating: 3
+    Not my favorite mix, I love walnuts and cashews, and this just has peanuts. Good start though!
+
+	Tanya Staples
+    December 11th, 2014 at 12:52
+
+	Review for: Holly's Trail Mix
+    Rating: 4.5
+    Love this mix! I usually skip the wasabi peas, but other than that this is a perfect blend of salty and sweet!
+
+	Scott Erickson 
+    January 2nd, 2015 at 5:52
+
+	Review for: Holly's Trail Mix
+    Rating: 4
+    Nice! I love a good bag of trail mix when out riding! Never would have thought of the pumpkin seeds!
+
+	Heather Schuler
+    January 10th, 2015 at 10:12
+    Review for: Holly's Trail Mix
+    Rating: 5
+    This has got a little bit of everything! Five stars from me!
+
+	Shira Gotshalk
+    January 15th, 2014 at 3:30
+	Review for: Holly's Trail Mix
+    Rating: 5
+    Made this the other day right before a ride up Los Robles. Awesome treat to enjoy at the top!
+    
+	Regan Williamson
+    January 27th, 2014 at 5:12
+    Review for: Holly's Trail Mix
+    Rating: 5
+    This is my Mom's recipe! My favorite snack ever, try it you'll love it!
+
+	Need a rental?
+	image: bikes.jpg" alternate text: Melanie's Bikes
+	Link: http://www.melsbikerenatls.com title="Melanie's Bikes" 
+	Melanie's Bikes has you covered!
+	If you're visiting Southern California and need a bike, give us a call! Free drop off and pick up.
+
+	return to top
+    T: 866.555.4310
+    Email Link: info@cycletracks.org
+
+	all content &copy;copyright 2014 Cycle Tracks  | please read our Link: terms of use
+    Cycle Tracks
+    5605 Nota Street
+    Ventura, CA 93003
+    866.555.4310
+    866.555.4315 (daily trail conditions)
